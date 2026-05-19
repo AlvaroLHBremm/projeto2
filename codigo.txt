@@ -1,8 +1,0 @@
-Primeiro código
-
-ls -al ~/.ssh
-
-
-
-ssh:
-ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAIFX+u0/XsaZ2efo66BGZL2LWfYTwR++MGM8J0i6ELzz8 albremm@gmail.com
